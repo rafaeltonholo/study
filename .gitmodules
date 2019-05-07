@@ -1,0 +1,3 @@
+[submodule "Android/instagram"]
+	path = Android/instagram
+	url = ./Android/instagram/.git
